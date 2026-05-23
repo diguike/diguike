@@ -19,6 +19,7 @@
 - [**Transformer 教学**](https://www.feishu.cn/wiki/GwN4wanrCikvfGk8bLgcdgVentb) — 从向量到 RAG
 - [**Claude Code Skill 开发指南**](https://inferloop.dev/claude-skill)
 - [**Claude 插件官方指南**](https://inferloop.dev/claude-plugins)
+- [**自己动手写 AI Agent**](https://inferloop.dev/ling-agent) — 从 Claude Code 开源架构到你的第一个编程助手
 
 配套源码每 2-3 周开源一本到这里。
 
