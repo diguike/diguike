@@ -12,11 +12,11 @@
 
 - **Hermes Agent 源码解读**
 - **LLM Infra 工程实战** — 面向应用层工程师的 LLM 基础设施
-- **AI Token 中转站实战** — 从 0 搭建企业级 LLM 网关
-- **Agent Memory 工程实战** — 基于 claude-mem 源码
-- **百万级 AI Agent 平台架构** — 智能客服 SaaS 实战
-- **OpenClaw 源码解析** — 现代 Agent 系统架构
-- **Transformer 教学** — 从向量到 RAG
+- [**AI Token 中转站实战**](https://www.feishu.cn/wiki/ZvV5wPXPeiQ5BPkH9OLcXaqRnOf) — 从 0 搭建企业级 LLM 网关
+- [**Agent Memory 工程实战**](https://fivwvysqdz.feishu.cn/wiki/KAKQwYDjRiqn9DklFT4cwrpVnOf) — 基于 claude-mem 源码
+- [**百万级 AI Agent 平台架构**](https://www.feishu.cn/wiki/HRjYwbh3Ti4tXrkdv9CcCPNcnEb) — 智能客服 SaaS 实战
+- [**OpenClaw 源码解析**](https://www.feishu.cn/wiki/DoDZwzgXtiDbyrk2aINc0DMLnQf) — 现代 Agent 系统架构
+- [**Transformer 教学**](https://www.feishu.cn/wiki/GwN4wanrCikvfGk8bLgcdgVentb) — 从向量到 RAG
 - **Claude Code Skill 开发指南**
 - **Claude 插件官方指南**
 
