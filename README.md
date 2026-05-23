@@ -4,7 +4,7 @@
 
 学一个东西的方式很直接：读源码 → 写代码跑通 → 把校准过的理解整理出来分享。所有公开产物在 **[inferloop.dev](https://inferloop.dev)**。
 
-这个账号下放三类东西：写完的书、side project、学习笔记。
+这个账号下放我写完的书、配套代码和学习笔记。
 
 ---
 
@@ -22,17 +22,9 @@
 
 配套源码每 2-3 周开源一本到这里。
 
-### side project
-
-- **idle-loop** — Claude 余量重置时自动跑队列任务
-- **repox** — TS CLI 工具集
-- **coffeesmap** — 安静办公咖啡馆地图
-- **ai-watermark-remover** — AI 图片去水印
-- **market-monitor** — 市场恐慌指标 + 个股监控
-
 ---
 
 ### 联系
 
 - 站点 · [inferloop.dev](https://inferloop.dev)
-- 公众号 · `inferloop`
+- 公众号 · `AI Reading Hub`
