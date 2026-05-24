@@ -28,4 +28,6 @@
 ### 联系
 
 - 站点 · [inferloop.dev](https://inferloop.dev)
-- 公众号 · `AI Reading Hub`
+- 公众号 · **AI Reading Hub**（扫码关注 ↓）
+
+<img src="https://meikan-public-images.oss-cn-beijing.aliyuncs.com/imeikan/assets/2025-06-13005433-qrcode_for_gh_27101e9a2f9d_258.jpg" alt="公众号 AI Reading Hub 二维码" width="140" />
