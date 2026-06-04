@@ -12,7 +12,6 @@ Agent 工程师。读源码、写 Agent、写书。
 
 - 把 LangChain.js 1.x 系统化教程写完
 - 持续追加《源码精读》，每章读一个开源项目
-- 每 2-3 周开源一本书的配套源码
 
 ---
 
@@ -40,7 +39,7 @@ Agent 工程师。读源码、写 Agent、写书。
 - **Claude 插件官方指南** · [在线](https://inferloop.dev/claude-plugins) · [源码](https://github.com/diguike/book-claude-plugins)
 - **源码精读** — 持续追加，每章一个开源仓库 · [在线](https://inferloop.dev/source-reading) · [源码](https://github.com/diguike/book-source-reading)
 
-配套源码每 2-3 周开源一本到这里。觉得有用的话，欢迎到对应仓库点个 star。
+配套源码会陆续开源到这里。觉得有用的话，欢迎到对应仓库点个 star。
 
 ---
 
