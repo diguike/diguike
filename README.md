@@ -43,6 +43,12 @@ Agent 工程师。读源码、写 Agent、写书。
 
 ---
 
+### 顺手做的东西
+
+- **CoffeesMap** — 一张找安静办公咖啡馆的地图，挑那种适合带电脑久坐的店 · [打开](https://coffeesmap.pages.dev/)
+
+---
+
 ### 联系
 
 - 站点 · [inferloop.dev](https://inferloop.dev)
