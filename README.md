@@ -10,7 +10,8 @@ Agent 工程师。读源码、写 Agent、写书。
 
 ### 现在在做
 
-- 把 LangChain.js 1.x 系统化教程写完
+- 写《Harness 闭环评测》—— Agent Evals 的进阶姊妹篇
+- 写《百万级 AI Agent 平台架构》—— 智能客服 SaaS 实战
 - 持续追加《源码精读》，每章读一个开源项目
 
 ---
@@ -45,7 +46,9 @@ Agent 工程师。读源码、写 Agent、写书。
 
 ### 顺手做的东西
 
+- **AI 发音速查** — 带发音的 AI 黑话词典：CUDA、Qwen、nginx 这些看得懂却念不准的词，点击即听标准读法，配中文谐音和一句话含义，收录 240+ 术语 · [打开](https://inferloop.dev/pronounce) · [源码](https://github.com/diguike/ai-pronounce)
 - **CoffeesMap** — 一张找安静办公咖啡馆的地图，挑那种适合带电脑久坐的店 · [打开](https://coffeesmap.pages.dev/)
+- **知识库阅读量周报** — 飞书 Wiki 不付费看不到整体阅读量，就写了个脚本递归遍历每篇文档取精确 PV/UV，按书聚合写进多维表格，cron 每周跑一次自动追踪增长
 
 ---
 
