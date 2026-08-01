@@ -1,6 +1,8 @@
 ## 递归客（diguike）
 
-Agent 工程师。读源码、写 Agent、写书。
+Agent 工程师，全栈工程师出身（Node.js / TypeScript）。
+
+现在做的方向：Agent 自进化——自迭代、自反馈的闭环；长程 Agent；AI 资产建设（skill / prompt / 知识库 / 评测集）；团队 AI 体系搭建。
 
 前端出身的全栈工程师，主力 TypeScript / Node.js，现在 all in AI Agent 工程与 LLM Infra。学一个东西的方式很直接：读源码 → 写代码跑通 → 把校准过的理解整理出来分享。所有公开产物在 **[inferloop.dev](https://inferloop.dev)**。
 
